@@ -29,6 +29,20 @@ Future
 
 ### Mono
 
+empty()
+
+just()
+
+asList()
+
+range()
+
+fromIterable()
+
+generate()
+
+create()
+
 ### Subscribe
 
 
@@ -38,4 +52,17 @@ Future
 
 ### Backpressure
 
+
+### Test
+
+
+### Debug
+
+
+### Advanced Features
+
+### Which Operation
+
+#### Create sequence
+ 
 
